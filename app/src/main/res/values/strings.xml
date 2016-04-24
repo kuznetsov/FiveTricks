@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FiveTricks</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="title_activity_fifth">FifthActivity</string>
+    <string name="title_activity_kickflip">Kickflip</string>
+    <string name="title_activity_tre_flip">TreFlip</string>
+    <string name="title_activity_fifty_fifty_grind">FiftyFiftyGrind</string>
+    <string name="title_activity_bs_ollie">BsOllie</string>
+    <string name="title_activity_half_cab_heel">HalfCabHeel</string>
+
+    <string name="start_string">Hi! In this app I will show you my five favourite
+        skateboard tricks!</string>
+
+    <string name="click_start">Click to start!</string>
+
+    <string name="kickflip_description">The kickflip is a skateboard trick in which
+        rider flips his skateboard 360° along the axis that extends from the nose to the
+        tail of the deck.</string>
+    <string name="tre_flip_descriotion">360 flip is a trick in which board  rotates 360°
+        around both of its two axes. It consists of a kickflip and BS 360 shove-it.</string>
+    <string name="fifty_grind_description">50-50 grind is a trick in which skater grinds on
+        two trucks on any kind of edge or rail.</string>
+    <string name="bs_ollie_descriotion">BS Ollie is ollie with 180° backwards rotating of hole body
+        with board.</string>
+    <string name="hc_heel_description">Halfcab heelflip is a combination of fakie 180 ollie and
+    heelflip.</string>
+
+    <string name="hint">Enter your name</string>
+    <string name="sentence">Hope you enjoy it, </string>
+
+    <string name="kickflip_trickipedia">Watch Torey Pudwill kickflip</string>
+    <string name="treflip_trickipedia">Watch Mark Appleyard 360 flip</string>
+    <string name="fifty_trickipedia">Watch Johan Stuckey 50-50 grind</string>
+    <string name="bsollie_trickipedia">Watch Trevor Colden bs 360 ollie</string>
+    <string name="hcheel_trickipedia">Watch Luis Tolentino halfcab heelflip</string>
+
+</resources>

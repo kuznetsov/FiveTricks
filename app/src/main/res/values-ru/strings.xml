@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FiveTricks</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="title_activity_fifth">FifthActivity</string>
+    <string name="title_activity_kickflip">Kickflip</string>
+    <string name="title_activity_tre_flip">TreFlip</string>
+    <string name="title_activity_fifty_fifty_grind">FiftyFiftyGrind</string>
+    <string name="title_activity_bs_ollie">BsOllie</string>
+    <string name="title_activity_half_cab_heel">HalfCabHeel</string>
+
+    <string name="kickflip_description">Kickflip это трюк, в котором скейтер
+        щелкает доску, прокручивая ее на 360° вокруг оси, которая продолжается от тейла
+        до ноуза доски.</string>
+    <string name="tre_flip_descriotion">360 flip это трюк в котором доска прокручивается на 360°
+        вокруг своих обеих осей. Он состоит из кикфлипа и бс 360 шовита.</string>
+    <string name="fifty_grind_description">50-50 grind это трюк, при котором скейтер скользит
+        обеими подвесками по какой-либо грани или перилу.</string>
+    <string name="bs_ollie_descriotion">BS Ollie это ollie с поворотом всего тела с доской на 180°
+        спиной вперед.</string>
+    <string name="hc_heel_description">Halfcab heelflip это комбинация fakie 180 ollie и
+    heelflip.</string>
+
+    <string name="start_string">Привет! В этом приложениии я покажу вам пять
+        моих любимых трюков на скейте!</string>
+
+    <string name="click_start">Нажмите, чтоб начать!</string>
+
+    <string name="hint">Введите ваше имя</string>
+    <string name="sentence">Надеюсь, Вам понравилось, </string>
+
+    <string name="kickflip_trickipedia">Torey Pudwill kickflip смотерть</string>
+    <string name="treflip_trickipedia">Mark Appleyard 360 flip смотреть</string>
+    <string name="fifty_trickipedia">Johan Stuckey 50-50 grind смотреть</string>
+    <string name="bsollie_trickipedia">Trevor Colden bs 360 ollie смотреть</string>
+    <string name="hcheel_trickipedia">Luis Tolentino halfcab heel смотреть</string>
+</resources>

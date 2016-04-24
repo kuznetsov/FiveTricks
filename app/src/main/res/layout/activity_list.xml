@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context="com.android.fivetricks.fivetricks.ListActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp">
+
+                <EditText
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="#FFFFFF"
+                    android:hint="@string/hint"
+                    android:textSize="20sp"
+                    android:id="@+id/editName" />
+
+                <Button
+                    android:layout_width="70dp"
+                    android:layout_height="match_parent"
+                    android:text="ok"
+                    android:textSize="20sp"
+                    android:background="#E0E0E0"
+                    android:onClick="changeText"/>
+
+            </LinearLayout>
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:src="@drawable/kickflip"
+                android:scaleType="centerCrop"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="image1"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"/>
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:src="@drawable/treflip"
+                android:scaleType="centerCrop"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="image2"
+                android:layout_marginBottom="5dp"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:src="@drawable/ff"
+                android:scaleType="centerCrop"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="image3"
+                android:layout_marginBottom="5dp"/>
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:src="@drawable/bsollie"
+                android:scaleType="centerCrop"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="image4"
+                android:layout_marginBottom="5dp"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:src="@drawable/hcheel"
+                android:scaleType="centerCrop"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="image5"
+                android:layout_marginBottom="5dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/nameText"
+                android:background="#BDBDBD"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>
+
+
